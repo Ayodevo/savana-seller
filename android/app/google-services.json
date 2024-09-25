@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "366490429520",
+    "firebase_url": "https://savana-da309-default-rtdb.firebaseio.com",
+    "project_id": "savana-da309",
+    "storage_bucket": "savana-da309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366490429520:android:49e0676afbe13f848bc955",
+        "android_client_info": {
+          "package_name": "com.savana.tn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366490429520-staoji32qab3r3ul49aiu603gb7aprsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.savana.tn",
+            "certificate_hash": "a95d11c239277fc1b1affa07e65fada1ee28c676"
+          }
+        },
+        {
+          "client_id": "366490429520-n71bn4uojmkfpekfavnp099e1vjf3ucg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCjAsViu5ZHvrXd9Va7guTO3lLN3AqfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366490429520-n71bn4uojmkfpekfavnp099e1vjf3ucg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366490429520-5eb6r9lvta0cp4ikl9qal248f847ace8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "seller.savana.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366490429520:android:d0bb62f505c181f78bc955",
+        "android_client_info": {
+          "package_name": "seller.savana.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366490429520-n71bn4uojmkfpekfavnp099e1vjf3ucg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCjAsViu5ZHvrXd9Va7guTO3lLN3AqfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366490429520-n71bn4uojmkfpekfavnp099e1vjf3ucg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366490429520-5eb6r9lvta0cp4ikl9qal248f847ace8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "seller.savana.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
